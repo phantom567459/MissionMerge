@@ -1,0 +1,13 @@
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\bin\Debug\netcoreapp3.1\MissionMerger.exe
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\bin\Debug\netcoreapp3.1\MissionMerger.deps.json
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\bin\Debug\netcoreapp3.1\MissionMerger.runtimeconfig.json
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\bin\Debug\netcoreapp3.1\MissionMerger.runtimeconfig.dev.json
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\bin\Debug\netcoreapp3.1\MissionMerger.dll
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\bin\Debug\netcoreapp3.1\MissionMerger.pdb
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\obj\Debug\netcoreapp3.1\MissionMerger.csprojAssemblyReference.cache
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\obj\Debug\netcoreapp3.1\MissionMerger.AssemblyInfoInputs.cache
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\obj\Debug\netcoreapp3.1\MissionMerger.AssemblyInfo.cs
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\obj\Debug\netcoreapp3.1\MissionMerger.csproj.CoreCompileInputs.cache
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\obj\Debug\netcoreapp3.1\MissionMerger.dll
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\obj\Debug\netcoreapp3.1\MissionMerger.pdb
+C:\Users\jpainter\source\repos\MissionMerger\MissionMerger\obj\Debug\netcoreapp3.1\MissionMerger.genruntimeconfig.cache
